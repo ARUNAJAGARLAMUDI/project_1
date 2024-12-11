@@ -1,0 +1,26 @@
+.calsi{
+    float: left;
+    width: 50%;
+    background-color:rgb(243, 241, 241);
+    margin: 5% 0% 0% 20%;
+}
+
+.calsi h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.calsi input, .calsi select{
+    float: left;
+    width: 30%;
+    margin: 0% 0% 3% 2%;
+    padding: 1% 0% 1% 0%;
+    text-align: center;
+}
+
+.calsi button{
+    float: left;
+    width: 40%;
+    margin: 3% 0% 3% 30%;
+    padding: 1% 0% 1% 0%;
+}
